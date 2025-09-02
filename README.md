@@ -1,0 +1,2 @@
+Um card simples que contém uma receita de cookies que costumo fazer com minha namorada.
+Utiliza HTML semântico e CSS responsivo.
